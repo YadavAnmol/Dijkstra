@@ -19,11 +19,11 @@ application.
     cd GE103-project
     python3 ge103project.py
 ### Screen Shots:
-![screen shot of graph](assets/graph.png)
-![screen shot of map](assets/map.png)
+![screen shot of graph](graph.png)
+![screen shot of map](map.png)
 
 ### Contributers:
 1. [Akshit Pal](https://github.com/AkshPal)
-2. [Anmol Yadav](https://github.com/Anmol7777)
-3. Harshal Sandhu
+2. [Anmol Yadav](https://github.com/YadavAnmol)
+3. [Harshal Sandhu](https://github.com/HarshalSandhu)
 4. [Arpit Verma](https://github.com/Arpit078)
